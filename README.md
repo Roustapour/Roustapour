@@ -1,4 +1,4 @@
-[![MasterHead](https://www.aurecongroup.com/-/media/images/aurecon/content/expertise-old-to-be-deleted/digital-engineering-advisory/machine-learning/aurecon-machine-learning-large-banner.jpg?w=1170&h=417&as=1&crop=1)
+[![MasterHead](https://iaam.se/img/Al-enabled%20smart%20Healthcare/Banner%20AI%20in%20Smart%20Healthcare.jpg)
 <h1 align="center">Hi 👋, I'm Amin Roustapour</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
