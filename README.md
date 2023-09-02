@@ -1,5 +1,5 @@
 [![MasterHead](https://iaam.se/img/Al-enabled%20smart%20Healthcare/Banner%20AI%20in%20Smart%20Healthcare.jpg)
-<h1 align="center">Hi 👋, I'm Amin Roustapour</h1>
+<h1 align="center">Amin Roustapour</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roustapour&label=Profile%20views&color=0e75b6&style=flat" alt="roustapour" /> </p>
