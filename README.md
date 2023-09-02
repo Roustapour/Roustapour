@@ -1,4 +1,4 @@
-[![MasterHead](https://iaam.se/img/Al-enabled%20smart%20Healthcare/Banner%20AI%20in%20Smart%20Healthcare.jpg)
+![MasterHead](https://iaam.se/img/Al-enabled%20smart%20Healthcare/Banner%20AI%20in%20Smart%20Healthcare.jpg)
 <h1 align="center">Amin Roustapour</h1>
 <h3 align="center">A passionate Machine Learning Student</h3>
 
