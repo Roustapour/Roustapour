@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roustapour&show_icons=true&locale=en" alt="roustapour" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roustapour&" alt="roustapour" /></p>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="amin-roustapour-a32b5ab2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/amin-roustapour-a32b5ab2?trk=profile-badge">Amin Roustapour</a></div>
+              
