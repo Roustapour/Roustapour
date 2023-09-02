@@ -21,7 +21,7 @@
 
 <p align="left">
 <a href="https://twitter.com/@aminroustapour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aminroustapour" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amin roustapour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amin roustapour" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amin-roustapour-a32b5ab2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amin roustapour" height="30" width="40" /></a>
 <a href="https://instagram.com/amin_roustapour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amin_roustapour" height="30" width="40" /></a>
 </p>
 
